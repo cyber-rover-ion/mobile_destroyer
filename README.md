@@ -5,7 +5,7 @@
 
 ## 🌃 Overview
 
-PROJECT_NAME is a next-generation cyberpunk-inspired project designed to push the boundaries of innovation and automation.
+mobile destroyer is a next-generation cyberpunk-inspired project designed to push the boundaries of innovation and automation.
 
 Built with performance, simplicity, and scalability in mind.
 
@@ -24,14 +24,7 @@ Built with performance, simplicity, and scalability in mind.
 
 ## 📦 Installation
 
-```bash
-git clone https://github.com/yourusername/project-name.git
 
-cd project-name
-
-npm install
-
-npm start
 ```
 
 ---
